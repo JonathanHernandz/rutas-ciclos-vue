@@ -1,34 +1,34 @@
 # 04-rutas-ciclo
+## Conceptos empleados
+* Vue Router
 
-##Vue Router
+* Navegación por:
 
-##Navegación por:
+* Path
 
-##Path
+* Nombre
 
-##Nombre
+* Programáticamente
 
-##Programáticamente
+* Estáticamente
 
-##Estáticamente
+* Guards
 
-##Guards
+* Síncronos
 
-##Síncronos
+* Asíncronos
 
-##Asíncronos
+* 404 Page
 
-##404 Page
+* Rutas hijas
 
-##Rutas hijas
+* Diferentes diseños entre router views
 
-##Diferentes diseños entre router views
+* Argumentos por URL (Query parameters)
 
-##Argumentos por URL (Query parameters)
+* Segmentos por URL
 
-##Segmentos por URL
-
-##Lifecycle hooks
+* Lifecycle hooks
 
  -con el Options API
 
